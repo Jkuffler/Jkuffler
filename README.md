@@ -32,6 +32,7 @@ Custom CSS.
 Data Structures and Algorithms
 
 #Connect with me
+
 <a href="https://www.linkedin.com/in/jason-kuffler/" target="_blank" rel="noreferrer noopener"><img alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
 
 
