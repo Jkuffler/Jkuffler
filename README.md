@@ -8,7 +8,7 @@ Life-long student of meatspace and the net.
 
 # :construction_worker: Projects :construction_worker: 
 
-:construction_worker: <b>The Bowler's Companion</b> :bowling: | <a href="https://github.com/Jkuffler/bowling/tree/master" rel="noreferrer noopener">Repo</a>
+:construction_worker:  :bowling: <b>The Bowler's Companion</b> | <a href="https://github.com/Jkuffler/bowling/tree/master" rel="noreferrer noopener">Repo</a>
  <ul>
 Ruby/Rails RESTful API built to store/display Bowling Alley's info.
 React front-end allows user to track scoring and self-coaching advice.
@@ -16,7 +16,7 @@ Implemented bootstrap and React-router-dom.
 Create sessions w/ custom login.
   </ul>
 
-<b>My National Parks API</b> :palm_tree::evergreen_tree::deciduous_tree:| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
+ :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
   <ul>
 Ruby/Rails RESTful API designed to display React front-end w/ a random national park on load.
 User creates session to log visits to national parks. 
@@ -24,18 +24,26 @@ CRUD available for visits in user passport.
 Bootstrap and react routing.
   </ul>
 
-<b>Game ChangR</b> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend" rel="noreferrer noopener"> Front-End Repo</a>
+ :video_game: <b>Game ChangR</b> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend" rel="noreferrer noopener"> Front-End Repo</a>
+ <ul>
 Allows unique login/signup.
 RESTful API built on Ruby.
 React front-end implements modals for most features. Ex: marking a game as played or simply adding to wishlist.
 React routing. 
 Active-Record-built backend for SQLite3 DB along with Faker gem. 
 Custom CSS.
+ </ul>
+ 
+# Currently Learning
+<ul>Data Structures and Algorithms
+</ul>
 
-#Currently Learning
-Data Structures and Algorithms
+# Skills
+<ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</ul>
 
-#Connect with me :calendar:
+# Connect with me :calendar:
 
 <a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> LinkedIn!</a>
 
