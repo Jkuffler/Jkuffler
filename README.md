@@ -8,7 +8,7 @@ Life-long student of meatspace and the net.
 
 # :construction_worker: Projects :construction_worker: 
 
-The Bowler's Companion | <a href="https://github.com/Jkuffler/bowling">Repo</a>
+The Bowler's Companion | <a href="https://github.com/Jkuffler/bowling/tree/master" target="_blank">Repo</a>
 
 <!--
 **Jkuffler/Jkuffler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
