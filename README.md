@@ -22,7 +22,8 @@ Create sessions w/ custom login.
 
  :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
   <ul>
-Ruby/Rails RESTful API designed to display React front-end w/ a random national park on load.
+Ruby/Rails RESTful API designed with .csv to create DB from wikipedia table. 
+React front-end w/ a random national park on load.
 User creates session to log visits to national parks. 
 CRUD available for visits in user passport. 
 Bootstrap and react routing.
