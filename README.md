@@ -34,6 +34,11 @@ Active-Record-built backend for SQLite3 DB along with Faker gem.
 Custom CSS.
  </ul>
  
+:astronaut: :rocket: <b>Astros In Space</b> | <a href="https://github.com/Jkuffler/Phase-1-Astronauts/tree/jason" rel="noreferrer noopener">Repo</a>
+ <ul>
+ Javascript drag-and-drop Astronaut's image to space station to reveal bio info and Wikipedia link. Called to <a href="http://open-notify.org/Open-Notify-API/People-In-Space/" rel="noreferrer noopener">Astros in Space API</a>. Custom CSS. 
+ </ul>
+ 
 # :thinking: Currently Learning 
 <ul>Data Structures and Algorithms
 </ul>
