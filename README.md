@@ -47,6 +47,7 @@ Custom CSS.
 <ul>
 <img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
 </ul>
 
 # :calendar: Connect with me 
