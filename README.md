@@ -9,6 +9,7 @@ Life-long student of meatspace and the net.
 # :construction_worker: Projects :construction_worker: 
 
 :construction_worker: The Bowler's Companion | <a href="https://github.com/Jkuffler/bowling/tree/master" target="_blank" rel="noreferrer noopener">Repo</a>
+
 Ruby/Rails RESTful API built to store/display Bowling Alley's info. React front-end allows user to track scoring and self-coaching advice. Implemented bootstrap and React-router-dom. Create sessions w/ custom login.
 
 
