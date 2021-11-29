@@ -16,7 +16,7 @@ Ruby/Rails RESTful API built to store/display Bowling Alley's info. React front-
   
 Ruby/Rails RESTful API designed to display React front-end w/ a random national park on load. SQLite3 for DB. User creates session to log visits to national parks. CRUD available for visits in user passport. Bootstrap and react routing. 
 
-  <h2>Game ChangR</h2> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" target="_blank" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend" target="_blank" rel="noreferrer noopener"> Front-End Repo</a>
+<b>Game ChangR</b> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" target="_blank" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend" target="_blank" rel="noreferrer noopener"> Front-End Repo</a>
 
 
 <!--
