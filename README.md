@@ -1,4 +1,14 @@
-### Hi there 👋
+# :sunglasses: Howdy! I'm Jason Kuffler :sunglasses:
+
+Jr. Dev cutting my teeth on JavaScript and Ruby on Rails. Strong Sales and Customer Service background with great interpersonal skills and positive outlook.
+
+Driven to meet client's needs and delivering exceptional solutions. Passionate about workplace positivity and lifting each other persistently.
+
+Life-long student of meatspace and the net.
+
+# :construction_worker: Projects :construction_worker: 
+
+The Bowler's Companion | <a href="https://github.com/Jkuffler/bowling">Repo</a>
 
 <!--
 **Jkuffler/Jkuffler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
