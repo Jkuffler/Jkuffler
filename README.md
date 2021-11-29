@@ -20,7 +20,7 @@ User creates session to log visits to national parks.
 CRUD available for visits in user passport. 
 Bootstrap and react routing. 
 
-<b>Game ChangR</b> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend"f rel="noreferrer noopener"> Front-End Repo</a>
+<b>Game ChangR</b> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend" rel="noreferrer noopener"> Front-End Repo</a>
 Allows unique login/signup.
 RESTful API built on Ruby.
 React front-end implements modals for most features. Ex: marking a game as played or simply adding to wishlist.
