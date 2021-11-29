@@ -40,7 +40,7 @@ Custom CSS.
 
 # Skills
 <ul>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </ul>
 
 # Connect with me :calendar:
