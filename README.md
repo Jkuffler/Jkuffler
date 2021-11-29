@@ -31,7 +31,7 @@ Custom CSS.
 #Currently Learning
 Data Structures and Algorithms
 
-#Connect with me
+#Connect with me :calendar:
 
 <a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> LinkedIn!</a>
 
