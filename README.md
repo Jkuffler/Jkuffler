@@ -8,19 +8,21 @@ Life-long student of meatspace and the net.
 
 # :construction_worker: Projects :construction_worker: 
 
-:construction_worker: <b>The Bowler's Companion</b> | <a href="https://github.com/Jkuffler/bowling/tree/master" rel="noreferrer noopener">Repo</a>
-<ul>
+:construction_worker: <b>The Bowler's Companion</b> :bowling: | <a href="https://github.com/Jkuffler/bowling/tree/master" rel="noreferrer noopener">Repo</a>
+ <ul>
 Ruby/Rails RESTful API built to store/display Bowling Alley's info.
 React front-end allows user to track scoring and self-coaching advice.
 Implemented bootstrap and React-router-dom.
 Create sessions w/ custom login.
-</ul>
+  </ul>
 
-<b>My National Parks API</b> | <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
+<b>My National Parks API</b> :palm_tree::evergreen_tree::deciduous_tree:| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
+  <ul>
 Ruby/Rails RESTful API designed to display React front-end w/ a random national park on load.
 User creates session to log visits to national parks. 
 CRUD available for visits in user passport. 
-Bootstrap and react routing. 
+Bootstrap and react routing.
+  </ul>
 
 <b>Game ChangR</b> | <a href="https://github.com/Jkuffler/Phase3GroupProject_Back" rel="noreferrer noopener">Back-End Repo</a> |<a href="https://github.com/Jkuffler/Phase3GroupProject/tree/master/my-app-frontend" rel="noreferrer noopener"> Front-End Repo</a>
 Allows unique login/signup.
