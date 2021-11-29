@@ -1,10 +1,10 @@
 # :sunglasses: Howdy! I'm Jason Kuffler :sunglasses:
 
-<h1>Life-long student in meatspace and cyberspace</h1>
+<b>Life-long student in meatspace and cyberspace</b>
 
 Jr. Dev cutting his teeth on JavaScript and Ruby on Rails. Strong Sales and Customer Service background with great interpersonal skills and positive outlook. Enjoy working at any pace. Always hunting down the next local/family business (or NPO) to suppport. In other words: avoiding chain retail/restaurants when and wherever possible.
 
-Highly driven to thoroughly assess client's needs and deliver exceptional solutions. 🧙
+Highly driven to thoroughly assess client's needs and deliver exceptional solutions. :ninja:
 
 Passionate about personal discovery and persistently lifting each other in a culture of respect. Deadlines are real but knowledge is not a race. The lone-wolf concept is cool and all; but, rarely bears fruit IRL. Especially in the dev community: humans are still among my favorite resources.
 
