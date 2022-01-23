@@ -2,15 +2,15 @@
 
 <b>Life-long student in meatspace and cyberspace</b>
 
-I'm a recovering sales rep turned Dev cutting my teeth on JavaScript, React, and Ruby on Rails. I have proven Sales, Customer Service, and Leadership background xp. Interpersonal skills are a big deal. In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
+I'm a recovering sales rep turned Dev cutting my teeth on JavaScript, React, and Ruby on Rails. I have proven Sales, Customer Service, and Leadership background. Interpersonal skills are a big deal to me. In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
-I thrive at high volume paces. With downtime I like to research or experiment.
+I thrive at high volume paces. When there's downtime I like to research and experiment with new technologies, ideas, and problems.
 
 Personal note: I prefer hunting down the next local/family business (or NPO) to support. Chain stores often lack that human element that is part of what I love about business.
 
-I'm driven to thoroughly assess client's needs and deliver exceptional solutions.
+I am driven to thoroughly assess client's needs and deliver exceptional solutions.
 
-I'm passionate about personal discovery and persistently lifting the spirits of those around me. Normalize a culture of respect for all.
+I'm passionate about personal discovery and persistently lifting the spirits of those around me. Normalize a culture of respect for all!
 
 Especially in the dev community: humans are still among my favorite resources. Let's talk about design and syntax!
 
