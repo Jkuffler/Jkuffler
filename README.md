@@ -51,7 +51,10 @@ Custom CSS.
  </ul>
  
 # :thinking: Currently Learning 
-<ul>Data Structures and Algorithms
+<ul>
+ <li>Data Structures and Algorithms</li>
+ <li>QA Types, Technologies, Methodologies</li>
+ <li>Testim QA</li>
 </ul>
 
 # :computer: Skills
