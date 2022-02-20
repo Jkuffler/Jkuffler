@@ -18,13 +18,7 @@ Especially in the dev community: humans are still among my favorite resources. L
 
 # :construction_worker: Projects :construction_worker: 
 
-:construction_worker:  :bowling: <b>The Bowler's Companion</b> | <a href="https://github.com/Jkuffler/bowling/tree/master" rel="noreferrer noopener">Repo</a>
- <ul>
-Ruby/Rails RESTful API built to store/display Bowling Alley's info.
-React front-end allows user to track scoring and self-coaching advice.
-Implemented bootstrap and React-router-dom.
-Create sessions w/ custom login.
-  </ul>
+:construction_worker: 
 
  :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
   <ul>
