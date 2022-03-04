@@ -46,9 +46,10 @@ Custom CSS.
  
 # :thinking: Currently Learning 
 <ul>
- <li>Data Structures and Algorithms</li>
- <li>QA Types, Technologies, Methodologies</li>
- <li>Testim QA</li>
+ <li>Advanced React.js</li>
+ <li>From Ruby to Enterprise Scale</li>
+ <li>Eloquent JavaScript</li>
+ <li>Independent Projects Keys to Success</li>
 </ul>
 
 # :computer: Skills
