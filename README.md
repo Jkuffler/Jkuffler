@@ -45,9 +45,10 @@ Custom CSS.
 # :thinking: Currently Learning 
 <ul>
  <li>Advanced React.js</li>
- <li>From Ruby to Enterprise Scale</li>
+ <li>Low Code methodologies in Appian and Hasura</li>
  <li>Eloquent JavaScript</li>
- <li>Independent Projects Keys to Success</li>
+ <li>IBM Call for Code - Liquid Prep opportunities</li>
+ <li>Agile/Scrum full life-cycle with contemporaries: see Acorn repo</li>
 </ul>
 
 # :computer: Skills
