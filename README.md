@@ -2,13 +2,13 @@
 
 <b>Life-long student in meatspace and cyberspace</b>
 
-COVID soured my career as a sales rep so I've skilled up as a software engineer, web developer. I've begun by cutting my teeth on JavaScript, React, and Ruby on Rails. Interpersonal skills are a big deal to me. In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
+In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
 I thrive at high volume paces that involve cross collaboration. When there's downtime I like to research and experiment with new technologies, ideas, and problems.
 
-My experience with the public for almost 20 years has shown that I am driven to thoroughly assess client's needs and deliver exceptional solutions.
+My experience with the public for 20+ years has shown that I am driven to deliver thorough solutions.
 
-I'm passionate about personal discovery and persistently lifting the spirits of those around me. DEI is a way of life and I'm very pleased to feel a part of a more positive culture than previous roles.
+I'm passionate about personal discovery and persistently lifting the spirits of those around me. DEI is a way of life and I'm very pleased to feel a part of a more positive culture than in retail roles.
 
 Especially in the dev community: humans are still among my favorite resources. Let's talk about open-source :)
 
@@ -33,8 +33,8 @@ Allows unique login/signup.
 RESTful API built on Ruby.
 React front-end implements modals for most features. Ex: marking a game as played or simply adding to wishlist.
 React routing. 
-Active-Record-built backend for SQLite3 DB along with Faker gem. 
-Custom CSS.
+Active-Record-built backend for SQLite3 DB along with Faker gem.
+CSS.
  </ul>
  
 :astronaut: :rocket: <b>Astros In Space</b> | <a href="https://github.com/Jkuffler/Phase-1-Astronauts/tree/jason" rel="noreferrer noopener">Repo</a>
@@ -44,11 +44,11 @@ Custom CSS.
  
 # :thinking: Currently Learning 
 <ul>
- <li>Advanced React.js</li>
+ <li>React Native</li>
  <li>Low Code methodologies in Appian and Hasura</li>
  <li>Eloquent JavaScript</li>
  <li>IBM Call for Code - Liquid Prep opportunities</li>
- <li>Agile/Scrum full life-cycle with contemporaries: see Acorn repo</li>
+ <li>Agile/Scrum product life-cycle collaborating with contemporaries: currently inside Acorn & sportsathon repos</li>
 </ul>
 
 # :computer: Skills
@@ -60,22 +60,6 @@ Custom CSS.
 <img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </ul>
 
-# :calendar: Connect with me 
+# :calendar: schedule sessions 
 
-<a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /></a>
-
-
-<!--
-**Jkuffler/Jkuffler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
