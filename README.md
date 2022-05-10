@@ -44,11 +44,10 @@ CSS.
  
 # :thinking: Currently Learning 
 <ul>
- <li>React Native</li>
- <li>Low Code methodologies in Appian and Hasura</li>
+ <li>NextJs</li>
+ <li>Low Code methodologies in Appian & Hasura</li>
  <li>Eloquent JavaScript</li>
- <li>IBM Call for Code - Liquid Prep opportunities</li>
- <li>Agile/Scrum product life-cycle collaborating with contemporaries: currently inside Acorn & sportsathon repos</li>
+ <li>Agile/Scrum product life-cycle collaborating with contemporaries: currently inside Acorn repo</li>
 </ul>
 
 # :computer: Skills
