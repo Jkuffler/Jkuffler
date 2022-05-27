@@ -16,8 +16,6 @@ Especially in the dev community: humans are still among my favorite resources. L
 
 # :construction_worker: Projects :construction_worker: 
 
-:construction_worker: 
-
  :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
   <ul>
 Ruby/Rails RESTful API designed with .csv to create DB from wikipedia table. 
@@ -45,6 +43,8 @@ CSS.
 # :thinking: Currently Learning 
 <ul>
  <li>NextJs</li>
+ <li>Selenium</li>
+ <li>SDET strategy, planning, testing methods, and tools</li>
  <li>Low Code methodologies in Appian & Hasura</li>
  <li>Eloquent JavaScript</li>
  <li>Agile/Scrum product life-cycle collaborating with contemporaries: currently inside Acorn repo</li>
@@ -59,6 +59,6 @@ CSS.
 <img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </ul>
 
-# :calendar: schedule sessions 
+# :calendar
 
 <a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
