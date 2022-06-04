@@ -59,6 +59,8 @@ CSS.
 <img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </ul>
 
-# :calendar
+# Contact
 
 <a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
+
+<a href="https://youtube.com/playlist?list=PLtL2kUv8tN-Jb5gnbMyYi2tJOg1Dlep2U" alt="YouTube"> Demo Playlist </a>
