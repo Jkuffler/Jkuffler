@@ -10,7 +10,7 @@ My experience with the public for 20+ years has shown that I am driven to delive
 
 I'm passionate about personal discovery and persistently lifting the spirits of those around me. DEI is a way of life and I'm very pleased to feel a part of a more positive culture than in retail roles.
 
-Especially in the dev community: humans are still among my favorite resources. Let's talk about open-source :)
+Especially in the dev community: humans are still among my favorite references. Let's talk about some open-source!
 
 
 
