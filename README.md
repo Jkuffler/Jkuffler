@@ -1,6 +1,6 @@
 # :sunglasses: Howdy! I'm Jason Kuffler :sunglasses:
 
-<b>Life-long student in meatspace and cyberspace</b>
+<b>Life-long student in meatspace and cyberspace | Current Mentor with Code the Dream </b>
 
 In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
