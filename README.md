@@ -10,10 +10,6 @@ My experience with the public for 20+ years has shown that I am driven to delive
 
 I'm passionate about personal discovery and persistently lifting the spirits of those around me. DEI is a way of life and I'm very pleased to feel a part of a more positive culture than in retail roles.
 
-Especially in the dev community: humans are still among my favorite references. Let's talk about some open-source!
-
-
-
 # :construction_worker: Projects :construction_worker: 
 
  :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
