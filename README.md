@@ -1,16 +1,16 @@
-# :sunglasses: Howdy! I'm Jason Kuffler :sunglasses:
+# I'm Jason Kuffler
 
-<b>Life-long student in meatspace and cyberspace | Current Mentor with Code the Dream </b>
+<b>Life-long student | Current: Mentor with Code the Dream </b>
 
 In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
-I thrive at high volume paces that involve cross collaboration. When there's downtime I like to research and experiment with new technologies, ideas, and problems.
+I thrive at high volume paces that involve cross collaboration. When there's downtime I like to research and experiment with all kinds of technologies, ideas, and problems.
 
-My experience with the public for 20+ years has shown that I am driven to deliver thorough solutions.
+I have wide ranging experience in the public sector over 20+ years of proven determination and creativity I can develop thorough solutions that come with genuinely humble communication skills.
 
-I'm passionate about personal discovery and persistently lifting the spirits of those around me. DEI is a way of life and I'm very pleased to feel a part of a more positive culture than in retail roles.
+In the tech industry I am honestly most excited about the different people I can meet who share a sense of belonging when they work on projects with an open mind. I'm passionate about personal discovery and persistently lifting the spirits of those around me.
 
-# :construction_worker: Projects :construction_worker: 
+# :construction_worker: Projects 
 
  :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
   <ul>
@@ -38,12 +38,10 @@ CSS.
  
 # :thinking: Currently Learning 
 <ul>
- <li>NextJs</li>
- <li>Selenium</li>
  <li>SDET strategy, planning, testing methods, and tools</li>
- <li>Low Code methodologies in Appian & Hasura</li>
  <li>Eloquent JavaScript</li>
- <li>Agile/Scrum product life-cycle collaborating with contemporaries: currently inside Acorn repo</li>
+ <li>Google Cloud Services</li>
+ <li>Data Structures/Agorithms 
 </ul>
 
 # :computer: Skills
@@ -57,6 +55,6 @@ CSS.
 
 # Contact
 
-<a href="https://www.linkedin.com/in/jason-kuffler/detail/contact-info/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
+<a href="https://www.linkedin.com/in/jason-kuffler/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
 
 <a href="https://youtube.com/playlist?list=PLtL2kUv8tN-Jb5gnbMyYi2tJOg1Dlep2U" alt="YouTube"> Demo Playlist </a>
