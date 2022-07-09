@@ -12,6 +12,16 @@ In the tech industry I am honestly most excited about the different people I can
 
 # :construction_worker: Projects 
 
+🍨 <b>Iceium</b>
+<a href="https://github.com/Jkuffler/Icieum">Repo</a> | <a href="https://devpost.com/software/iceium">Demo</a>
+Frey Hacks 2022 - Overall experiece included working up the idea provided bya group I met for this event. We agreed that Ice Cream is a universally amazing theme for the summer. To help people get right to the ice cream they'll love, or love to discover, the Iceium concept was submitted in 48 hour sprint. Development continues for dynamic map features calling from the Moogle API. 😆 I am now a huge fan of getting into hackathons.
+<ul>
+ <li> JavaScript </li>
+ <li> Yelp Fusion </li>
+ <li> Google Maps API </li>
+ <li> Google cloud console </li>
+</ul>
+
  :palm_tree::evergreen_tree::deciduous_tree: <b>My National Parks API</b>| <a href="https://github.com/Jkuffler/MyNationalParksAPI" rel="noreferrer noopener">Repo</a> | <a href="https://national-park-app.herokuapp.com/" rel="noreferrer noopener">Demo</a>
   <ul>
 Ruby/Rails RESTful API designed with .csv to create DB from wikipedia table. 
