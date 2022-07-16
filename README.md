@@ -48,10 +48,11 @@ CSS.
  
 # :thinking: Currently Learning 
 <ul>
+ <li>Vitejs</li>
  <li>SDET strategy, planning, testing methods, and tools</li>
  <li>Eloquent JavaScript</li>
  <li>Google Cloud Services</li>
- <li>Data Structures/Agorithms 
+ <li>Data Structures/Agorithms</li>
 </ul>
 
 # :computer: Skills
