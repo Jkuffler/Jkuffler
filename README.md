@@ -57,15 +57,15 @@ CSS.
 
 # :computer: Skills
 <ul>
-<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
-<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img height=70px width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+<img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
+<img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </ul>
 
 # Contact
 
-<a href="https://www.linkedin.com/in/jason-kuffler/" rel="noreferrer noopener"><img height=70px width=70px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
+<a href="https://www.linkedin.com/in/jason-kuffler/" rel="noreferrer noopener"><img height=30px width=30px alt="LinkedIn" src="https://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /> </a>
 
 <a href="https://youtube.com/playlist?list=PLtL2kUv8tN-Jb5gnbMyYi2tJOg1Dlep2U" alt="YouTube"> Demo Playlist </a>
