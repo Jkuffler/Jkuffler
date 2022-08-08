@@ -14,7 +14,7 @@ In the tech industry I am honestly most excited about the different people I can
 
 🍨 <b>Iceium</b>
 <a href="https://github.com/Jkuffler/Icieum">Repo</a> | <a href="https://devpost.com/software/iceium">Demo</a>
-Frey Hacks 2022 - Overall experiece included working up the idea provided bya group I met for this event. We agreed that Ice Cream is a universally amazing theme for the summer. To help people get right to the ice cream they'll love, or love to discover, the Iceium concept was submitted in 48 hour sprint. Development continues for dynamic map features calling from the Moogle API. 😆 I am now a huge fan of getting into hackathons.
+Frey Hacks 2022 - Overall experiece included working up the idea provided by the group I was matched with last minute. We agreed that Ice Cream is a universally amazing theme for the summer. To help people get right to the ice cream they'll love, or love to discover, the Iceium concept was born. Development continues for dynamic map features calling from the Moogle API. 💗 hackathons.
 <ul>
  <li> JavaScript </li>
  <li> Yelp Fusion </li>
