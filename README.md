@@ -4,10 +4,6 @@
 
 In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
-I thrive at high volume paces that involve cross collaboration. When there's downtime I like to research and experiment with all kinds of technologies, ideas, and problems.
-
-I have wide ranging experience in the public sector over 20+ years of proven determination and creativity I can develop thorough solutions that come with genuinely humble communication skills.
-
 In the tech industry I am honestly most excited about the different people I can meet who share a sense of belonging when they work on projects with an open mind. I'm passionate about personal discovery and persistently lifting the spirits of those around me.
 
 # :construction_worker: Projects 
