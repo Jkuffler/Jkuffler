@@ -4,7 +4,7 @@
 
 In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
-In the tech industry I am honestly most excited about the different people I can meet who share a sense of belonging when they work on projects with an open mind. I'm passionate about personal discovery and persistently lifting the spirits of those around me.
+In the tech industry I am excited to tackle complexities and continuously add more base knowledge of creating remarkable web content. I am also thrilled about the different people I can meet who share a sense of belonging when they work on projects together. I'm passionate about personal discovery and staying open-minded to new possibilities!
 
 # :construction_worker: Projects 
 
@@ -44,10 +44,10 @@ CSS.
  
 # :thinking: Currently Learning 
 <ul>
- <li>Vitejs</li>
- <li>SDET strategy, planning, testing methods, and tools</li>
+ <li>Maven</li>
+ <li>SpringBoot</li>
  <li>Eloquent JavaScript</li>
- <li>Google Cloud Services</li>
+ <li>SQL</li>
  <li>Data Structures/Agorithms</li>
 </ul>
 
