@@ -1,4 +1,4 @@
-# I'm <a href="https://jkuffler.github.io/intro-to-programming-bestla/">Jason Kuffler</a>
+#Jason Kuffler
 
 <b>Life-long student | Current: Mentor with Code the Dream </b>
 
