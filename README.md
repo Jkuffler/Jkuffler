@@ -4,6 +4,6 @@
 
 In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
-In the tech industry I am excited to tackle complexities and continuously add more base knowledge of creating remarkable web content. I am also thrilled about the different people I can meet who share a sense of belonging when they work on projects together. I'm passionate about personal discovery and staying open-minded to new possibilities!
+I am excited to tackle complex code and sharing more knowledge about creating remarkable web content. I participate and enjoy the team spirit of huddles, o3's or large calls. I'm passionate about discovering new fulfilling experiences and staying mindful of protecting nature's splendor - in ecosystems, and in court.
 
 <a href="https://www.kuffler.me"> Home </a>
