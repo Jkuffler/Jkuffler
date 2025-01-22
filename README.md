@@ -1,6 +1,6 @@
 ## Jason Kuffler
 
-<b>Life-long student | Currently: Co-owner at <a href="https://www.oakleafcustomwoodworking.com/">Oakleaf Custom Woodworking</a> Mentor with Code the Dream </b>
+<b>Life-long student | Currently: Co-owner at <a href="https://www.oakleafcustomwoodworking.com/">Oakleaf Custom Woodworking</a> | Mentor with Code the Dream </b>
 
 In Beautiful Katamari the king of the universe says "Love makes the world go round...but manners keep you from getting motion sickness". I love that.
 
